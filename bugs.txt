@@ -1,0 +1,1 @@
+1. The same links hide each other because of method "replace" 
